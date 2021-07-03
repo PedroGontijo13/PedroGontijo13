@@ -18,7 +18,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-tolentino-b08989204/)](https://www.linkedin.com/in/pedro-tolentino-b08989204/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroGontijo13)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroGontijo13)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 - Thanks for visiting.
 
