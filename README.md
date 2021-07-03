@@ -27,5 +27,3 @@
 ----------------------------------------------------------------------------------
 
 Pedro Tolentino
-
-https://github.com/PedroGontijo13 = https://github.com/PedroGontijo13.
