@@ -28,4 +28,4 @@
 
 Pedro Tolentino
 
-https://www.linkedin.com/in/pedro-tolentino-b08989204/ = https://github.com/PedroGontijo13.
+https://github.com/PedroGontijo13 = https://github.com/PedroGontijo13.
