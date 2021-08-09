@@ -6,7 +6,7 @@
 
 ## I'm Pedro!
 
-:computer: I'm Brazil Developer!
+:computer: I'm Brazilian Developer!
 
 :outbox_tray: 2021 Goals: Find a new job.
 
