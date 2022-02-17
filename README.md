@@ -22,7 +22,7 @@ Student in Computer Science
 
 #Frameworks:
 
-<img width=40 align="center" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" /><img width=40 align="center" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" /><img width=40 align="center" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" /><img width=40 align="center" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
+<img width=40 align="center" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" /><img width=40 align="center" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" /><img width=40 align="center" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" /><img width=40 align="center" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" /><img width=40 align="center" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" /><img width=40 align="center" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" /><img width=40 align="center" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" />
 ----------------------------------------------------------------------------------
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGontijo13)](https://github.com/anuraghazra/github-readme-stats)
