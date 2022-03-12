@@ -1,12 +1,9 @@
 ----------------------------------------------------------------------------
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
-# Welcome!
-
- 
 
 ## I'm Pedro!
 
-:computer: I'm a Brazilian Developer!
+:computer: I'm a Brazilian developer with a main focus on web programming.
 
  <i class="devicon-cplusplus-plain"></i>
  
