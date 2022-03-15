@@ -16,7 +16,7 @@
 
 #Me:
 
-Student in Computer Science
+Student in Computer Science. I started self-taught studies in 2019 with a main focus on the Web, starting with html and javascript. Nowadays I develop interfaces mainly with ReactJS and NodeJS. Mainly focused on front-end.
 
 #Languages:
 <div style="display: inline_block">
