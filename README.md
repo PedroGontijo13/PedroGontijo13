@@ -31,5 +31,5 @@
 
 
 ## Github Streaks
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroGontijo13&theme=dark" alt="PedroGontijo13Streak" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroGontijo13&theme=dark" alt="PedroGontijo13Streak" /></p>
 </div>
