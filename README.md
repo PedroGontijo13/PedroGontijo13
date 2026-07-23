@@ -32,16 +32,6 @@
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pedrogontijo13&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true&locale=en" align="center" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrogontijo13&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="pedrogontijo13" />
-</div>
-
-## Contribution Heatmap
-
-<div align="center">
-<img src="https://ghchart.rshah.org/2ea043/pedrogontijo13" alt="pedrogontijo13's contribution heatmap" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrogontijo13&theme=dark&hide_border=true&background=000000" alt="pedrogontijo13's streak stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=pedrogontijo13&show_icons=true&theme=dark" alt="pedrogontijo13's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrogontijo13&show_icons=true&theme=dark&layout=compact" alt="pedrogontijo13's top languages" />
 </div>
