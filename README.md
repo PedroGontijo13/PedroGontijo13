@@ -9,7 +9,7 @@
 Desenvolvedor full stack pleno/sênior (C#/.NET + React/TypeScript), autodidata desde 2019.
 Construo produtos digitais de ponta a ponta: **CRMs sob medida, integrações, funis de venda,
 automação de atendimento via chatbot e a infraestrutura por trás de tudo isso.**
-Baseado no Canadá, originalmente do Brasil.
+Baseado em Belo Horizonte, Brasil.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-tolentino-b08989204)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pedrtolentino)
