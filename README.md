@@ -81,9 +81,9 @@ deploy, coordenando prioridades, arquitetura e entrega.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pedrogontijo13&theme=radical&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrogontijo13&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=pedrogontijo13&show_icons=true&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogontijo13&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedrogontijo13&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
