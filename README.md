@@ -16,8 +16,6 @@ Baseado em Belo Horizonte, Brasil.
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/pedrotolentino)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrotolentino2002@gmail.com)
 
-![Profile views](https://komarev.com/ghpvc/?username=pedrogontijo13&label=Profile%20views&color=b40e0e&style=for-the-badge)
-
 </div>
 
 ---
