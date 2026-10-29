@@ -11,6 +11,8 @@ Construo produtos digitais de ponta a ponta: **CRMs sob medida, integrações, f
 automação de atendimento via chatbot e a infraestrutura por trás de tudo isso.**
 Baseado em Belo Horizonte, Brasil.
 
+<img src="./assets/profile-photo.jpeg" width="180" alt="Pedro Gontijo usando uma armadura futurista" />
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-tolentino-b08989204)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pedrtolentino)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/pedrotolentino)
